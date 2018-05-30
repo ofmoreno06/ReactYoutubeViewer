@@ -16,8 +16,8 @@ Still in early state. there is only a searchbar component for now.
 
 1. Clone repo and enter to repo directory
 
-    git clone https://github.com/ofmoreno06/ReactYoutubeViewer.git ReactYoutubeViewer \
-    && cd ReactYoutubeViewer
+    `git clone https://github.com/ofmoreno06/ReactYoutubeViewer.git ReactYoutubeViewer \
+    && cd ReactYoutubeViewer`
 
 2. Install dependencies
 
