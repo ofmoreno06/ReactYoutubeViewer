@@ -14,19 +14,20 @@ Still in early state. there is only a searchbar component for now.
 
 ## Run in your machine (not available yet)
 
-### 1. Clone repo and enter to repo directory
+1. Clone repo and enter to repo directory
 
-    git clone httt.... && cd ReactYoutubeViewer
+    git clone https://github.com/ofmoreno06/ReactYoutubeViewer.git ReactYoutubeViewer \
+    && cd ReactYoutubeViewer
 
-### 2. Install dependencies
+2. Install dependencies
 
     npm install
 
-### 3. Run development server
+3. Run development server
 
     npm run start
 
-### 4. Open browser
+4. Open browser
 
 Open your browser and go to [localhost:8080](localhost:8080)
 
